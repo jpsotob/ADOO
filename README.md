@@ -14,3 +14,12 @@
     </body>
 </html>
 ```
+```python
+def query_students(name, age):
+    code: Annotated[str, Language["sql"]] = f"""
+    SELECT *
+    FROM student
+    WHERE name = "{name}"
+      AND age = {age}
+    """
+```
