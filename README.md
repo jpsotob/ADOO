@@ -2,6 +2,8 @@
 ## Analisis y Diseño Orientado a Objetos
 ### Probando codigo markdown
 
+$$\max(S) = \max_{i:S_i \in S} S_i$$
+
 ```html
 <!DOCTYPE html>
 <html>
