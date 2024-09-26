@@ -23,3 +23,7 @@ def query_students(name, age):
       AND age = {age}
     """
 ```
+
+$$\color{blue}{X \sim Normal \; (\mu,\sigma^2)}$$
+
+
