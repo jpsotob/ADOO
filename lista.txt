@@ -1,6 +1,6 @@
 ## Listado de alumnos
 ### Escribe tu nombre y apellido en el siguiente listado, por ejemplo: 1. Juan Pérez.
-1.
+1.Juan Pablo Soto
 2.
 3.
 4.
