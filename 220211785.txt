@@ -1,0 +1,12 @@
+git init: Inicializa un nuevo repositorio Git en el directorio actual.
+git clone <url>: Clona un repositorio remoto en tu máquina local.
+git add <archivo>: Añade el archivo al área de preparación (staging).
+git commit -m "mensaje": Guarda los cambios en el historial del repositorio con un mensaje de confirmación.
+git status: Muestra el estado actual del repositorio (archivos modificados, no rastreados, etc.).
+git push: Sube los cambios locales al repositorio remoto.
+git pull: Descarga cambios desde el repositorio remoto y los fusiona con el repositorio local.
+git branch: Muestra la lista de ramas locales.
+git checkout <rama>: Cambia a la rama especificada.
+git merge <rama>: Fusiona la rama especificada con la rama actual.
+git log: Muestra el historial de confirmaciones del repositorio.
+
