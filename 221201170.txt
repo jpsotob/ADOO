@@ -1,0 +1,6 @@
+git clone: Clona un repositorio en tu máquina local.
+git checkout: Cambia de rama o crea una nueva.
+git add: Añade cambios al área de preparación.
+git commit: Guarda los cambios en el historial del repositorio.
+git push: Sube los cambios al repositorio remoto.
+git pull: Trae los cambios desde el repositorio remoto a tu máquina.
