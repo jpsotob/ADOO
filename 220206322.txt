@@ -1,0 +1,10 @@
+
+git clone: Crea un repositorio local utilizando una copia de un repositorio en la nube con su url.
+git add: Agrega archivos a la fase de "stage". Esto significa que tomas una copia en ese momento del archivo que será guardado de esa forma una vez que hagas git commit.
+git commit: Formalizas los cambios que le has hecho a los archivos que están en la fase de "stage".
+git push: Envias tus commits al respositorio en la nube.
+git pull: Recuperas los commits nuevos que tiene el repositorio en la nube desde la última actualización.
+git branch: Creas una nueva rama de desarrollo.
+git checkout: Obtienes los archivos del proyecto en su estado actual en otra rama.
+git status: Obtienes un estatus general del proyecto. Te indica los archivos que has cambiado y los que están en la fase "stage".
+
