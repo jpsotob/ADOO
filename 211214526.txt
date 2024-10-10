@@ -1,0 +1,11 @@
+git init					-	Inicializa una carpeta git.
+git checkout -b "***"		-	Inicializa una nueva rama para el repositorio. La rama tendra el nombre especificado entre corchetes.
+git status					-	Regresa el estado actual del repositorio local. 
+git branch --list			-	Regresa la lista actual de ramas, resaltando en la que se este trabajando actualmente.
+git remote add origin "***"	-	Se agrega el contenido del repositorio referenciado por la direccion entre corchetes a la definicion origin.
+git remote show origin		-	Regresa el estado actual del repositorio referenciado por origin.
+git pull origin "***"		-	Se obtienen los archivos del repositorio referenciado por origin.
+git add "***"				-	Se actualizan los archivos de la rama referenciada.
+git commit					-	Se agrega un comentario al repositorio actual.
+git push origin "***"		-	Se agrega la rama referenciada al repositorio por origin. 
+git clone "***"				-	Clona el repositorio referenciado en un nuevo directorio.
